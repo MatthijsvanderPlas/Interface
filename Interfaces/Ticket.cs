@@ -14,4 +14,4 @@ public class Ticket : IEquatable<Ticket>
         if (other == null) throw new ArgumentNullException(nameof(other));
         return this.DurationHours == other.DurationHours;
     }
-}
+}   

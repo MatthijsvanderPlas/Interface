@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{259ED2D9-A51A-47E7-AF12-6F2364E25448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemo1", "InterfaceDemo1\InterfaceDemo1.csproj", "{61177F18-51A6-4DA5-8044-DCA1A1811B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{259ED2D9-A51A-47E7-AF12-6F2364E25448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{259ED2D9-A51A-47E7-AF12-6F2364E25448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{259ED2D9-A51A-47E7-AF12-6F2364E25448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61177F18-51A6-4DA5-8044-DCA1A1811B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61177F18-51A6-4DA5-8044-DCA1A1811B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61177F18-51A6-4DA5-8044-DCA1A1811B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61177F18-51A6-4DA5-8044-DCA1A1811B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
