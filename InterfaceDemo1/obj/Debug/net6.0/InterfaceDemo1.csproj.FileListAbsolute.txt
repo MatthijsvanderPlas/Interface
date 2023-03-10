@@ -1,0 +1,15 @@
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/InterfaceDemo1
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/InterfaceDemo1.deps.json
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/InterfaceDemo1.runtimeconfig.json
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/InterfaceDemo1.dll
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/ref/InterfaceDemo1.dll
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/bin/Debug/net6.0/InterfaceDemo1.pdb
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.csproj.AssemblyReference.cache
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.AssemblyInfoInputs.cache
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.AssemblyInfo.cs
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.csproj.CoreCompileInputs.cache
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.dll
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/ref/InterfaceDemo1.dll
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.pdb
+/home/matthijs/RiderProjects/Interfaces/InterfaceDemo1/obj/Debug/net6.0/InterfaceDemo1.genruntimeconfig.cache
