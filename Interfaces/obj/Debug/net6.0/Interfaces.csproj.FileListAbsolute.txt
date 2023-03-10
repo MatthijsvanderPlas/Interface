@@ -1,0 +1,15 @@
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/Interfaces
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/ref/Interfaces.dll
+/home/matthijs/RiderProjects/Interfaces/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/home/matthijs/RiderProjects/Interfaces/Interfaces/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache
